@@ -11,6 +11,9 @@ function App() {
 
 <div>
   <Hadassah></Hadassah>
+  <div>
+    <h2>Hi!</h2>
+  </div>
 </div>
 
   )
