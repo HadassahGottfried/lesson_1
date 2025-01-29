@@ -1,7 +1,8 @@
 const Nechami=()=>{
     return(
         <div>
-            <h1>necami zonabend!!!!!!!!!</h1>
+            <h1>hello</h1>
+            <h2>necami zonabend!!!!!!!!!</h2>
         </div>
     )
 };
